@@ -5,7 +5,7 @@ It contains 4 mini-projects and 1 final projects covering a variety of scientifi
 
 Project 1:
 Project 1 is an investigation in how gravity affects the density of an ideal gas in a box. The gas molecules collide with each other but not the box itself so think of the box as merey a "slice" of an overall concentration of an ideal gas. 
-
+Density-of-Ideal-Gas-affected-by-gravity.ipynb
 
 Project 2:
 Project 2's pupose is to examine the difference of Classical and Relativitic Motion ODEs. We will do this by applying a constant force on two identical particles using the two different methods and comparing/contrasting the results.
