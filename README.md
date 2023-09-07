@@ -4,7 +4,7 @@ This portfolio is collection of projects that I completed during my time taking 
 It contains 4 mini-projects and 1 final project covering a variety of scientific ideas and investigations. They are all written in some form of python, wether that be numpy or vpython, in jupyter notebook.
 
 Project 1: 🔬 🔴 
-Project 1 is an investigation in how gravity affects the density of an ideal gas in a box. The gas molecules collide with each other but not the box itself so think of the box as merey a "slice" of an overall concentration of an ideal gas. 
+Project 1 is an investigation in how gravity affects the density of an ideal gas in a box. The gas molecules collide with each other but not the box itself so think of the box as merley a "slice" of an overall concentration of an ideal gas. 
 https://github.com/JDay2/Portfolio/blob/main/Density-of-Ideal-Gas-affected-by-gravity.ipynb
 
 Project 2: ♾️ 📡
